@@ -1,10 +1,3 @@
-<div align="center">
-███████╗██╗  ██╗██╗  ██╗██████╗
-██╔════╝██║  ██║██║  ██║██╔══██╗
-███████╗███████║███████║██║  ██║
-╚════██║╚════██║╚════██║██║  ██║
-███████║     ██║     ██║██████╔╝
-╚══════╝     ╚═╝     ╚═╝╚═════╝
 ## Muhammad Saad Ahmed | ShkS44D
 ### 🛡️ Cybersecurity Engineer • Threat Detection • Security Tool Builder
 
