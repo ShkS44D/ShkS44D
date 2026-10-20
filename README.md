@@ -2,7 +2,7 @@
   <img src="assets/security-banner.svg" width="100%" alt="Muhammad Saad Ahmed — Detection Engineering · Security Operations · Security Tooling" />
 </p>
 
-<p align="center">I build practical tools for threat detection, investigation, and security assessment.</p>
+<p align="center">I build practical tools for threat detection, investigation, and security assessment.<br />I also actively hunt for vulnerabilities through bug bounty programs.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shsaadahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -28,7 +28,7 @@ My focus is on making security signals easier to investigate and turning finding
 | Area | Interests & tools |
 | :--- | :--- |
 | **Detection & investigation** | Threat detection · SIEM operations · Incident response · Wireshark |
-| **Security assessment** | Network defence · Web application security · Smart contract security · Burp Suite · Kali Linux |
+| **Security assessment** | Bug bounty hunting · Web application security · Network defence · Smart contract security · Burp Suite · Kali Linux |
 | **Development** | Python · Docker · Security automation |
 
 ## Background
