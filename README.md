@@ -11,7 +11,7 @@
 
 ## Currently building
 
-**[Socluma](https://github.com/ShkS44D/Socluma)** — a personal security operations platform that brings telemetry, threat detection, incident investigation, and evidence-grounded AI assistance together.
+**[Socluma](https://github.com/ShkS44D/Socluma)** a personal security operations platform that brings telemetry, threat detection, incident investigation, and evidence-grounded AI assistance together.
 
 My focus is on making security signals easier to investigate and turning findings into clear, actionable evidence.
 
