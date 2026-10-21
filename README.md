@@ -9,11 +9,13 @@
   <a href="mailto:shksaad2003@gmail.com"><img src="https://img.shields.io/badge/Email-16324F?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Saad Ahmed" /></a>
 </p>
 
-## Currently building
+## About me
 
-**[Socluma](https://github.com/ShkS44D/Socluma)** a personal security operations platform that brings telemetry, threat detection, incident investigation, and evidence-grounded AI assistance together.
+I’m Muhammad Saad Ahmed, a cybersecurity practitioner and active bug bounty hunter. I find vulnerabilities, investigate threats, and build practical security tools.
 
-My focus is on making security signals easier to investigate and turning findings into clear, actionable evidence.
+My work spans threat detection, incident response, web application security, and smart contract security. I enjoy understanding how systems break and using that knowledge to strengthen their defences.
+
+Here, I share the projects I’m building and explore ways to make security assessment and investigation more effective.
 
 ## Featured projects
 
@@ -33,7 +35,6 @@ My focus is on making security signals easier to investigate and turning finding
 
 ## Background
 
-- **Education:** BS Cybersecurity at CASE Sir Syed, Islamabad.
 - **Experience:** Internships at Askari Bank (SIEM operations) and KaiRiz Cyber Technology.
 - **Certifications:** Junior Penetration Tester (TryHackMe) · ICIP (OPSWAT).
 
