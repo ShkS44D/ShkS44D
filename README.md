@@ -23,10 +23,10 @@ Through internships at Askari Bank and KaiRiz Cyber Technology, I’ve worked on
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Socluma](https://github.com/ShkS44D/Socluma)** | SOC platform with Sigma-style detection rules, MITRE ATT&CK mapping, evidence timelines, and AI-assisted investigation. Includes Windows/Linux collectors, tenant isolation, and granular permissions. | Python · FastAPI · React · PostgreSQL · Redis · Docker |
-| **[Sentinel IDS](https://github.com/ShkS44D/Sentinal-AI)** | Random Forest intrusion detection with saved scans, analyst notes, and alert tracking. Evaluated on 22,544 NSL-KDD test records: **96.59% precision** and **74.49% F1**. | Python · Streamlit · scikit-learn · SQLite |
-| **[Contract-Radar](https://github.com/ShkS44D/Contract-Radar)** | Solidity security analysis combining Slither with **11 custom detector classes**, compiler-aware checks, and source-level remediation guidance. | Python · Slither · SQLite · Docker |
-| **[SafeScan](https://github.com/ShkS44D/SafeScan)** | Network exposure assessment with TCP port scanning and banner-based service identification. | Python |
+| **[Socluma](https://github.com/shks44d/Socluma)** | SOC platform with Sigma-style detection rules, MITRE ATT&CK mapping, evidence timelines, and AI-assisted investigation. Includes Windows/Linux collectors, tenant isolation, and granular permissions. | Python · FastAPI · React · PostgreSQL · Redis · Docker |
+| **[Sentinel IDS](https://github.com/shks44d/Sentinal-AI)** | Random Forest intrusion detection with saved scans, analyst notes, and alert tracking. Evaluated on 22,544 NSL-KDD test records: **96.59% precision** and **74.49% F1**. | Python · Streamlit · scikit-learn · SQLite |
+| **[Contract-Radar](https://github.com/shks44d/Contract-Radar)** | Solidity security analysis combining Slither with **11 custom detector classes**, compiler-aware checks, and source-level remediation guidance. | Python · Slither · SQLite · Docker |
+| **[SafeScan](https://github.com/shks44d/SafeScan)** | Network exposure assessment with TCP port scanning and banner-based service identification. | Python |
 
 ## Focus & tools
 

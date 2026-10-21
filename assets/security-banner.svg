@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Muhammad Saad Ahmed | ShkS44D</title>
+<title id="title">Muhammad Saad Ahmed | shks44d</title>
 <desc id="desc">Detection Engineering, Security Operations, Security Tooling. Navy banner with cyan circuit traces.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10283f"/><stop offset=".55" stop-color="#0b1728"/><stop offset="1" stop-color="#102237"/></linearGradient>
@@ -12,7 +12,7 @@
 </g>
 <g fill="#38bdf8" opacity=".65"><circle cx="202" cy="117" r="3"/><circle cx="163" cy="140" r="3"/><circle cx="95" cy="120" r="3"/><circle cx="180" cy="100" r="3"/><circle cx="225" cy="306" r="3"/><circle cx="1005" cy="110" r="3"/><circle cx="1042" cy="132" r="3"/><circle cx="984" cy="304" r="3"/><circle cx="1000" cy="75" r="3"/></g>
 <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
-<text x="600" y="91" fill="#7dd3fc" font-family="Consolas, monospace" font-size="15" letter-spacing="4">SHKS44D / CYBERSECURITY</text>
+<text x="600" y="91" fill="#7dd3fc" font-family="Consolas, monospace" font-size="15" letter-spacing="4">shks44d / CYBERSECURITY</text>
 <text x="600" y="158" fill="#f0f6fc" font-size="48" font-weight="700" letter-spacing="-1">Muhammad Saad Ahmed</text>
 <rect x="568" y="182" width="64" height="3" rx="1.5" fill="#38bdf8"/>
 <text x="600" y="221" fill="#a5d9f3" font-size="19" letter-spacing=".6">Detection Engineering · Security Operations · Security Tooling</text>
