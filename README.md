@@ -5,6 +5,7 @@
 <p align="center">I build practical tools for threat detection, investigation, and security assessment.<br />I also actively hunt for vulnerabilities through bug bounty programs.</p>
 
 <p align="center">
+  <a href="https://s44d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-16324F?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" /></a>
   <a href="https://www.linkedin.com/in/shsaadahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:shksaad2003@gmail.com"><img src="https://img.shields.io/badge/Email-16324F?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Muhammad Saad Ahmed" /></a>
 </p>
